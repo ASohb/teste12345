@@ -1,0 +1,22 @@
+body{
+  background-color:SkyBlue;
+  text-align: center;
+}
+
+h1{
+  color: blue;
+  border-style: solid;
+}
+
+a{
+  color: white;
+  border-style:solid;
+  border-radius: 20px;
+  border-color: SlateGray;
+  padding: 5px;
+}
+p{
+  color: black;
+  
+}
+
